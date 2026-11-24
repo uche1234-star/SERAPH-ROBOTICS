@@ -1,3 +1,2 @@
-import type { Config } from 'next';
-const config: Config = { reactStrictMode: true };
+const config = { reactStrictMode: true };
 export default config;
